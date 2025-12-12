@@ -1,0 +1,2 @@
+Timestamp,Command,Elapsed_Time_sec,CPU_Percent,Max_RSS_KB,User_Time_sec,System_Time_sec,Input_Size_MB,Output_Size_MB,Exit_Status
+2025-11-22 06:19:53,"salmon index -t tmp_All_Smel_Genes_gentrome/gentrome.fa -d tmp_All_Smel_Genes_gentrome/decoys.txt -i 4_POST_PROCESSING/4d_Method_4_Salmon_Saf_Quantification/4_Salmon_WD/index/All_Smel_Genes_decoySAF -k 31 -p 16",0.55,84,94572,0.15,0.31,.06,.18,0

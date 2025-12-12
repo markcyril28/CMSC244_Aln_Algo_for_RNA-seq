@@ -1,0 +1,5 @@
+Timestamp,Command,Elapsed_Time_sec,CPU_Percent,Max_RSS_KB,User_Time_sec,System_Time_sec,Input_Size_MB,Output_Size_MB,Exit_Status
+2025-11-14 01:00:50,"samtools index -@ 72 4_POST_PROCESSING/4b_Method_2_HISAT2_De_Novo/4_HISAT2_WD/All_Smel_Genes/SRR2072",9.13,916,24644,74.40,9.29,0,0,0
+2025-11-14 03:39:13,"samtools index -@ 72 4_POST_PROCESSING/4a_Method_1_HISAT2_Ref_Guided/4_HISAT2_WD/All_Smel_Genes/SRR20722234/SRR20722234_All_Smel_Genes_ref_guided_mapped_sorted.bam",6.37,1030,22604,57.82,7.88,0,0,0
+2025-11-14 03:44:21,"samtools index -@ 72 4_POST_PROCESSING/4a_Method_1_HISAT2_Ref_Guided/4_HISAT2_WD/All_Smel_Genes/SRR21010466/SRR21010466_All_Smel_Genes_ref_guided_mapped_sorted.bam",2.96,763,22664,19.46,3.15,0,0,0
+2025-11-14 03:55:49,"samtools index -@ 72 4_POST_PROCESSING/4a_Method_1_HISAT2_Ref_Guided/4_HISAT2_WD/All_Smel_Genes/SRR20722233/SRR20722233_All_Smel_Genes_ref_guided_mapped_sorted.bam",4.53,1152,23604,46.58,5.68,0,0,0

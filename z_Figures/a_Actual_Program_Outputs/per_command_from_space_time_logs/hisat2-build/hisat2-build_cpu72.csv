@@ -1,0 +1,2 @@
+Timestamp,Command,Elapsed_Time_sec,CPU_Percent,Max_RSS_KB,User_Time_sec,System_Time_sec,Input_Size_MB,Output_Size_MB,Exit_Status
+2025-11-14 00:43:47,"hisat2-build -p 72 0_INPUT_FASTAs/All_Smel_Genes.fasta 4_POST_PROCESSING/4b_Method_2_HISAT2_De_Novo/",0.31,1521,97968,3.95,0.80,.05,4.48,0
