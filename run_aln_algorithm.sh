@@ -22,9 +22,9 @@ FASTQ_R2="test_inputs/SRR3884686_2_val_2.fq.gz"
 #REFERENCE="test_inputs/Eggplant_V4.1_transcripts.function.fa"
 REFERENCE="test_inputs/All_Smel_Genes.fasta"
 
-OUTPUT_HISAT="z_Outputs/HISAT"
-OUTPUT_BOWTIE="z_Outputs/Bowtie"
-OUTPUT_SALMON="z_Outputs/Salmon_Saf"
+OUTPUT_HISAT="outputs/HISAT"
+OUTPUT_BOWTIE="outputs/Bowtie"
+OUTPUT_SALMON="outputs/Salmon_Saf"
 
 CONDA_ENV="cmsc_aln"
 
