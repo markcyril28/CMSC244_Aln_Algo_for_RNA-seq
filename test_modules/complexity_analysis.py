@@ -15,7 +15,9 @@ import os
 # ========================================================================================
 
 def measure_memory_usage():
-    """Get current memory usage in MB."""
+    """
+    Get current memory usage in MB.
+    """
     with open('/proc/self/status') as f:
         for line in f:
             if line.startswith('VmRSS:'):               # RSS: Resident Set Size
