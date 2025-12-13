@@ -30,7 +30,7 @@ def find_pattern(pattern, suffix_array, count_table, occurrence):
     Find all occurrences of pattern in reference.
     """
     n = len(suffix_array)
-    low, high = FM_backward_search(pattern, count_table, occurrence, n)  # O(m) - one char lookup per pattern char
+    low, high = FM_backward_search(pattern, count_table, occurrence, n)  # O(m) - one character lookup per pattern character
     if low >= high or low < 0:
         return []
     positions = []
